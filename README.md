@@ -8,21 +8,6 @@ The **AnimalClassification** project is a deep learning-based image classificati
 - Uses a pre-trained convolutional neural network (CNN) for feature extraction.
 - Provides easy integration with Flask/Streamlit for web-based or desktop applications.
 
-## Repository Structure
-```
-AnimalClassification/
-│
-├── Images/              # Dataset containing images of different animals
-├── models/              # Pre-trained and saved models
-├── notebooks/           # Jupyter notebooks for experiments and training
-├── src/                 # Python scripts for data preprocessing and model training
-├── app.py               # Flask/Streamlit application file
-├── README.md            # Project documentation
-├── requirements.txt     # Python dependencies
-├── .gitignore           # Files and folders to ignore in the repository
-└── LICENSE              # License for the project
-```
-
 ## Requirements
 To run this project, ensure you have the following dependencies installed:
 
